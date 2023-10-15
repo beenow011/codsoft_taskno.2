@@ -1,0 +1,234 @@
+@media screen and (max-width:1250px){
+    header h1{
+        /* display: block; */
+        margin: auto 100px;
+
+    }
+    nav ul li{
+        
+        padding-right: 50px;
+    }
+    #bg{
+    background-size:64%;
+
+    }
+    .con img {
+      
+            /* margin-top: 20px; */
+            margin-top: 187px;
+            
+        
+        height: 54vh;
+        }
+        .sec2 .about {
+            /* height: 700px; */
+            height: 902px;
+            }
+            .heading h1 {
+                position: relative;
+                bottom: -107px;
+                left: 108px;
+                }
+                .info2 h1{
+                    margin-left: -68%;
+}
+.info2 ul {
+    /* margin-top: 50px; */
+    margin-top: 89px;
+    }
+   .sec3  h1 {
+        padding-top: 106px;
+        }
+        
+        .sec4 h1 {
+            padding-top: 106px;
+            padding-top: 14px;
+            }
+                }
+
+
+@media screen and (max-width:954px){
+    header{
+        display: block;
+    }
+    header h1 {
+        margin-left: 375px;
+        padding-top: 49px;
+        }
+        nav {
+           
+            
+           
+                margin-left: 164px;
+              
+            margin-top: 31px;
+            }
+            nav ul li {
+        
+                padding-right: 98px;
+            }
+            .t {
+                height: 100vh;
+                margin-left: -197px;
+                margin-top: 195px;
+                z-index: 1;
+                background: linear-gradient(to right, crimson,pink,springgreen);
+              background-size: 200% 200%;
+                animation: rainbow 2s ease-in-out infinite;
+              background-clip: text;
+              -webkit-background-clip:text;
+            }
+            .sec1 {
+    
+                display: flex;
+                 min-height: calc(100vh-50px);
+                 color: rgb(255, 255, 255);
+                 font-family:"Abril Fatface", sans-serif;
+                 font-size: 22px;
+             }
+             .grid{
+                grid-template-columns: auto;
+                height: 69vh;
+            
+                                        }
+                                        .g img {
+                                            
+                                            height: 7vh;
+                                            }
+                                     
+            .about {
+            width: 65vw;
+            height: 1097px;
+            }
+            .g{
+                height: 169px;
+            }
+            .g2 a {
+                flex-direction: column;
+                }
+                .g2 img {
+                    width: 267px;
+                    }
+                    .g2 {
+                        
+            
+                        margin-bottom: 7%;
+                        }
+                        .grid2 {
+                            
+                            margin-top: 12%;
+                            }
+                            .g2 a {
+                                font-size: 19px;
+                                }
+                                .sec2 .about {
+                                    
+                                    height: 1241px;
+                                    }
+                                    .con img{
+                                        height: 37vh;
+                                    }
+                                    .info ul , .info2 ul{
+                                        
+                                        font-size: 23px;
+                                        }
+}  
+@media screen and (max-width:600px) {
+    header h1 {
+        margin-left: 148px;
+        font-size: x-large;
+        }
+        nav ul {
+            font-family: 'Quicksand', sans-serif;
+            font-size: large;
+          }
+          nav {
+
+            margin-left: 59px;
+            }
+            nav ul li {
+                
+                padding-right: 27px;
+                }
+                #bg{
+                    background-image: url();
+                }
+                .sec1 {
+                   
+                    font-size: 32px;
+                }
+                .t {
+                    position: relative;
+                    left: -75px;
+                    }
+                    .sec1 h1 {
+                        
+
+                        margin-top: -13%;
+                        margin-left: 80%;
+                        width: 307px;
+                        }
+                        .sec1 p {
+                            
+                            margin-left: 82%;
+                            }
+                            .grid{
+    grid-template-columns: auto;
+    height: 60vh;
+
+                            }
+                            .g img {
+                                
+                                height: 7vh;
+                                }
+                         
+.about {
+width: 65vw;
+height: 1097px;
+}
+.g{
+    height: 144px;
+}
+.g2 a {
+    flex-direction: column;
+    }
+    .g2 img {
+        width: 267px;
+        }
+        .g2 {
+            
+
+            margin-bottom: 7%;
+            }
+            .grid2 {
+                
+                margin-top: 12%;
+                }
+                .g2 a {
+                    font-size: 19px;
+                    }
+                    .projinfo p {
+                        
+                        font-size: 18px;
+                        }
+                        .sec2 .about {
+                            
+                            height: 2027px;
+                            }
+                            .con {
+                                flex-direction: column;
+                                }
+                                .con img {
+                                    width: 55vw;
+                                    height: 26vh;
+                                    }
+                                    .info ul {
+                                        
+                                        font-size: 28px;
+                                        }
+                                        .heading h1 {
+                                           
+                                            bottom: -183px;
+                                            left: 19px;
+                                            }
+                }
